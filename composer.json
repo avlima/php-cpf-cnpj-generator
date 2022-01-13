@@ -1,0 +1,35 @@
+{
+    "name": "avlima/php-cpf-cnpj-gerenator",
+    "description": "Brazilian document generator",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "Cpf generator",
+        "Cnpj generator",
+        "Fake cpf",
+        "Fake cnpj",
+        "Create cpf",
+        "Create cnpj",
+        "Brazilian document",
+        "laravel mmenvio"
+    ],
+    "homepage": "https://github.com/avlima/php-cpf-cnpj-gerenator",
+    "autoload": {
+        "psr-4": {
+            "Avlima\\PhpCpfCnpjGerenator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alberto",
+            "email": "albertovieiradelima@gmail.com",
+            "homepage": "https://github.com/avlima",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    }
+}
