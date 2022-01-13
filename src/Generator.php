@@ -1,6 +1,6 @@
 <?php
 
-namespace Avlima\PhpCpfCnpjGerenator;
+namespace Avlima\PhpCpfCnpjGenerator;
 
 use Exception;
 
