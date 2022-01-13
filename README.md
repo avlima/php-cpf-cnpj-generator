@@ -1,4 +1,4 @@
-[![Packagist](https://img.shields.io/packagist/v/avlima/php-cpf-cnpj-generator.svg)](https://packagist.org/packages/avlima/php-cpf-cnpj-gerenator) 
+[![Packagist](https://img.shields.io/packagist/v/avlima/php-cpf-cnpj-generator.svg)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator) 
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/avlima/php-cpf-cnpj-generator.svg?logo=php&logoColor=white)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/avlima/php-cpf-cnpj-generator/master/LICENSE)
 
