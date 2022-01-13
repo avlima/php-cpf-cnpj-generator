@@ -1,5 +1,5 @@
 {
-    "name": "avlima/php-cpf-cnpj-gerenator",
+    "name": "avlima/php-cpf-cnpj-generator",
     "description": "Brazilian document generator",
     "version": "1.0.0",
     "type": "library",
@@ -14,10 +14,10 @@
         "Brazilian document",
         "laravel mmenvio"
     ],
-    "homepage": "https://github.com/avlima/php-cpf-cnpj-gerenator",
+    "homepage": "https://github.com/avlima/php-cpf-cnpj-generator",
     "autoload": {
         "psr-4": {
-            "Avlima\\PhpCpfCnpjGerenator\\": "src/"
+            "Avlima\\PhpCpfCnpjGenerator\\": "src/"
         }
     },
     "authors": [
