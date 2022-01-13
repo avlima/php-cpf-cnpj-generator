@@ -1,6 +1,7 @@
-[![Packagist](https://img.shields.io/packagist/v/avlima/php-cpf-cnpj-generator.svg)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator) 
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/avlima/php-cpf-cnpj-generator.svg?logo=php&logoColor=white)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/avlima/php-cpf-cnpj-generator/master/LICENSE)
+[![Packagist](https://img.shields.io/packagist/v/avlima/php-cpf-cnpj-generator.svg?style=flat)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator) 
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/avlima/php-cpf-cnpj-generator.svg?logo=php&logoColor=white&style=flat)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/avlima/php-cpf-cnpj-generator/master/LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/avlima/php-cpf-cnpj-generator.svg?style=flat)](https://packagist.org/packages/avlima/php-cpf-cnpj-generator)
 
 # Brazilian document generator for PHP
 
