@@ -17,7 +17,7 @@ composer require avlima/php-cpf-cnpj-generator
 
 ## Usage
 
-Add the class `use Avlima\PhpCpfCnpjGerenator\Generator;` to your file:
+Add the class `use Avlima\PhpCpfCnpjGenerator\Generator;` to your file:
 ```
 Generator::cpf();
 - output: 84255523037
